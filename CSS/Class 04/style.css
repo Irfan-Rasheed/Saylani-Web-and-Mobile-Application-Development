@@ -1,0 +1,69 @@
+/* *{
+    background-color: rgb(12, 150, 131);
+
+}
+
+#abc{
+    background-color: green;
+    height: 100px;
+    width: 300px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 500px;
+    margin-top: 250px;
+    border-radius: 40px;
+    box-shadow: 20px 20px 20px black;
+    font-style: italic;
+    color:aliceblue
+
+} */
+
+/* *{
+    background-color: black;
+    color: white;
+
+} */
+body{
+    background-color: black;
+}
+table{
+    border-color: aquamarine;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    color: white;
+    margin:auto;
+    padding: 50px;
+    
+    margin-top: 90px;
+}
+td{
+    padding: 15px;
+}
+th{
+    padding: 05px;
+    background-color: black;
+}
+tr{
+    
+    background-color: black;
+    
+}
+.abc{
+    background-color: lightseagreen;
+    color: white;
+}
+.def{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: green;
+    border-radius: 20px ;
+    color: white;
+    height: 30px;
+    width: 90px;
+}
+

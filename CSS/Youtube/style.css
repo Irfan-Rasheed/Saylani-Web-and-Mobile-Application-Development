@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    height: 40px;
+    width: 300px;
+    position: fixed;
+    top: 40px;
+    left: 350px;
+    font-size: 25px;  
+}
+
+img#a1{
+    position: fixed;
+    top: 40px;
+   right: 500px;
+}
+img#a2{
+    position: fixed;
+    top: 40px;
+   right: 300px;
+}
+img#a4{
+    position: absolute;
+    top: 3px;
+    right: 80px;
+
+}
+img#a5{
+    position: fixed;
+    top: -50px;
+    left: 50px;
+
+}
+button.a3{
+    position: fixed;
+    top: 40px;
+    height: 40px;
+    text-align: right;
+    width: 120px;
+    right: 150px;
+   border-radius: 0px;
+   background-color: white;
+   font-size: 20px;
+}
+li.napbar{
+    display: inline;
+}
+div#napbar{
+    position: fixed;
+    top: 80px;
+    right: 30px;
+}
+button.napbar{
+    height: 40px;
+    width: 100px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 25px;
+}
+div#options{
+    position: fixed;
+    top: 100px;
+    left: 30px;
+}
+ul#o1{
+    list-style-type: none;
+}
+button#o2{
+   height: 40px;
+   width: 140px;
+   border-radius: 0px;
+   background-color: white;
+   font-size: 20px;
+   text-align: right;
+   font-weight: bold;
+}
+img#o3{
+    position: absolute;
+    top: 286px;
+    left: 45px;
+}
+div#vedios{
+    position: absolute;
+    top: 170px;
+    left: 280px;
+}

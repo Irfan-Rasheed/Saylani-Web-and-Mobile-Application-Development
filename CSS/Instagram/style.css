@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(245, 246, 247);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    position: absolute;
+    top: 2%;
+    left: 19%;
+}
+div#a1{
+    border: 2px solid rgb(156, 156, 156);
+    width: 26%;
+    position: absolute;
+    top: 4%;
+    right: 23%;
+    background-color: white;
+    text-align: center;
+}
+@font-face {
+    font-family: instagram;
+    src: url(./PacificoRegular-BXvV.ttf);
+}
+p#a2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: instagram;
+}
+input.a3{
+    height: 35px;
+    width: 83%;
+    font-size: 14px;
+
+}
+button#a4{
+    height: 35px;
+    width: 85%;
+    background-color: rgba(30, 130, 245, 0.5);
+    color: white;
+    border: 0px;
+    font-size: 17px;
+}
+hr#a5{
+    width: 310px;
+}
+a#a6{
+    text-decoration: none;
+    color: rgb(6, 103, 250);
+    font-weight: bold;
+    font-size: 17px;
+    border: 0px solid white;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/124/124010.png');
+    background-size: 20px;
+    padding-left: 29px;
+    background-position: 3px;
+    background-repeat: no-repeat;
+}
+a#a7{
+    text-decoration: none;
+    color:rgb(160, 159, 159); 
+}
+a#a8{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+div#b1{
+    border: 2px solid rgb(156, 156, 156);
+    position: absolute;
+    top: 70%;
+    right: 23%;
+    width: 26%;
+    background-color: white;
+    text-align: center;
+}
+div#c1{
+    position: absolute;
+    top: 78%;
+    right: 21%;
+    width: 30%;
+    height: 14%;
+    text-align: center;
+}
+img#c2{
+    position: absolute;
+    top: 40%;
+    left: 6%;  
+}
+img#c3{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+div#d1{
+    position: absolute;
+    top: 100%;
+    left: 15%;
+}
+select#d4{
+    position:absolute;
+    top: 93%;
+    left: 33%;
+    color: rgb(160, 159, 159);
+    border: 0px;
+    background-color: rgb(245, 246, 247);
+    font-size: 15px;
+}
+p#d5{
+    position:absolute;
+    top: 76%;
+    left: 43%;
+    color: rgb(160, 159, 159);
+}
+li{
+    display: inline;
+    color: rgb(160, 159, 159);
+}
